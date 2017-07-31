@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, ‘7.0’
+
+target ‘demo’ do
+
+pod 'AFNetworking', '~> 2.6.0'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'MBProgressHUD', '~> 0.9.1'
+
+end
